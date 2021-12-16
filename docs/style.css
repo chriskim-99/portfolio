@@ -166,7 +166,7 @@ a:hover{
 
 
 
-/* INFO Section*/
+/* ABOUT Section*/
 
 
 /*profile-section*/
@@ -193,7 +193,7 @@ a:hover{
 }
 
 .introduction>p{
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 16px;
 
@@ -275,16 +275,6 @@ a:hover{
 }
 
 
-a[title="Freepik"]:hover{
-  color: black;
-  text-decoration: underline;
-}
-
-a[title="Flaticon"]:hover{
-  color: black;
-  text-decoration: underline;
-}
-
 
 /* RECENT WORKS */
 
@@ -309,7 +299,7 @@ a[title="Flaticon"]:hover{
 }
 
 .article-name{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 50px;
   font-weight: 700;
   margin-top: 0px;
@@ -347,6 +337,7 @@ a[title="Flaticon"]:hover{
 
 
 #name1{
+  text-align: left;
   position: relative;
   right: 70px;
 }
